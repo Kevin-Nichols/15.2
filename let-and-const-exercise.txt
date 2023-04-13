@@ -1,0 +1,10 @@
+const PI = 3.14;
+
+
+1: let is a block-scoped variable and it is not hoisted. It can be reassigned like var, but it cannot be redeclared.
+
+2: const block-scoped and cannot be reassigned or redeclared. It is not hoisted.
+
+3: let can be reassigned but not redeclared. const cannot be reassigned or redeclared.
+
+4: Hoisting is when a variable is compiled at the begining of running your code no matter where the variable was declared within your code.
